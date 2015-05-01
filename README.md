@@ -169,6 +169,7 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 *Question: What is the value of `foo`?*
 ```javascript
 var foo = 10 + '20';
+undefine
 ```
 
 *Question: How would you make this work?*
